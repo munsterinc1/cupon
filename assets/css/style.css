@@ -1,0 +1,33 @@
+footer{
+
+    color: black;
+    
+}
+
+.footer img{
+
+    max-width: 100px;
+
+}
+
+header{
+
+    color: white;
+}
+
+
+.imgsize{
+
+    max-width: 100px;
+}
+
+.parrafo{
+
+    color: white;
+    padding-top: 30px;
+}
+
+.tachado {
+    
+    text-decoration: line-through;
+}
